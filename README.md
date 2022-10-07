@@ -1,3 +1,3 @@
-# ABOUT PROJECT
-Machine learning repository
+### ABOUT PROJECT
+#### Machine learning repository
 
